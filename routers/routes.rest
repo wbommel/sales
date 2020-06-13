@@ -1,0 +1,7 @@
+GET http://localhost:21098/sales/id/50 HTTP/1.1
+
+###
+
+GET http://localhost:21098/sales/monthly/2019/12 HTTP/1.1
+
+###

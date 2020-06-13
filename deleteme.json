@@ -1,0 +1,70 @@
+{  '$between': [    
+    Moment {      _isAMomentObject: true,      _i: '11/01/2019',      _f: 'MM/DD/YYYY',      _isUTC: false,      _pf: {        empty: false,        unusedTokens: [],        unusedInput: [],        overflow: -1,        charsLeftOver: 0,        nullInput: false,        invalidMonth: null,        invalidFormat: false,        userInvalidated: false,        iso: false,        parsedDateParts: [Array
+                ],        meridiem: undefined,        rfc2822: false,        weekdayMismatch: false
+            },      _locale: Locale {        _calendar: [Object
+                ],        _longDateFormat: [Object
+                ],        _invalidDate: 'Invalid date',        ordinal: [Function: ordinal
+                ],        _dayOfMonthOrdinalParse: /\\d{
+                    1,
+                    2
+                }(th|st|nd|rd)/,        _relativeTime: [Object
+                ],        _months: [Array
+                ],        _monthsShort: [Array
+                ],        _week: [Object
+                ],        _weekdays: [Array
+                ],        _weekdaysMin: [Array
+                ],        _weekdaysShort: [Array
+                ],        _meridiemParse: /[ap
+                ]\\.?m?\\.?/i,        _abbr: 'en',        _config: [Object
+                ],        _dayOfMonthOrdinalParseLenient: /\\d{
+                    1,
+                    2
+                }(th|st|nd|rd)|\\d{
+                    1,
+                    2
+                }/
+            },      _a: [
+                2019,
+                10,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],      _d: 2019-10-31T23: 00: 00.000Z,      _isValid: true,      _z: null
+        },    Moment {      _isAMomentObject: true,      _i: '11/31/2019',      _f: 'MM/DD/YYYY',      _isUTC: false,      _pf: {        empty: false,        unusedTokens: [],        unusedInput: [],        overflow: 2,        charsLeftOver: 0,        nullInput: false,        invalidMonth: null,        invalidFormat: false,        userInvalidated: false,        iso: false,        parsedDateParts: [Array
+                ],        meridiem: undefined,        rfc2822: false,        weekdayMismatch: false
+            },      _locale: Locale {        _calendar: [Object
+                ],        _longDateFormat: [Object
+                ],        _invalidDate: 'Invalid date',        ordinal: [Function: ordinal
+                ],        _dayOfMonthOrdinalParse: /\\d{
+                    1,
+                    2
+                }(th|st|nd|rd)/,        _relativeTime: [Object
+                ],        _months: [Array
+                ],        _monthsShort: [Array
+                ],        _week: [Object
+                ],        _weekdays: [Array
+                ],        _weekdaysMin: [Array
+                ],        _weekdaysShort: [Array
+                ],        _meridiemParse: /[ap
+                ]\\.?m?\\.?/i,        _abbr: 'en',        _config: [Object
+                ],        _dayOfMonthOrdinalParseLenient: /\\d{
+                    1,
+                    2
+                }(th|st|nd|rd)|\\d{
+                    1,
+                    2
+                }/
+            },      _a: [
+                2019,
+                10,
+                31,
+                0,
+                0,
+                0,
+                0
+            ],      _d: Invalid Date,      _isValid: false,      _z: null
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 'use strict'
 const DataTypes = require('sequelize').DataTypes
-const { gt, lte, ne, in: opIn } = require('sequelize').Op
+const { gt, lte, ne, in: opIn, between } = require('sequelize').Op
 let sequelize
 
 module.exports = {
