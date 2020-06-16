@@ -6,7 +6,7 @@ let sequelize
 module.exports = {
   init: (sequelizeInstance) => {
     sequelize = sequelizeInstance
-    return this
+    return module.exports
   },
   defineModel: () => {
     return _defineModel()

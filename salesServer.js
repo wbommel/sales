@@ -9,9 +9,7 @@ const sequelize = new Sequelize(
   })
 
 /** prepare models */
-const salesModel = require('./model/sales')// .init(sequelize)// .defineModel()
-salesModel.init(sequelize).defineModel()
-console.log(salesModel)
+const salesModel = require('./model/sales').init(sequelize).defineModel()
 
 /** create application */
 const express = require('express')
